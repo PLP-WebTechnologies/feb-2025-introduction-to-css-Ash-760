@@ -1,0 +1,26 @@
+/* Styling the title using a class */
+.title {
+    color: #3498db;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+/* Styling the paragraph using an ID */
+#intro {
+    color: #2c3e50;
+    font-size: 18px;
+    margin: 20px;
+    padding: 10px;
+    border-left: 4px solid #e74c3c;
+}
+
+/* Styling an image */
+.styled-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border: 5px solid #34495e;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+}
